@@ -1,7 +1,7 @@
 # CSE332-Gomoku-TicTacToe-Commands
 
 Lab3————TicTacToe   
-Lab4————Gomoku
+Lab4————Gomoku    
 Lab5————Commands  
 This repo contains a Gomoku game and TicTacToe Game built by C++.  
 
